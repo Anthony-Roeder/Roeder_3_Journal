@@ -1,0 +1,21 @@
+void setup() {
+  size(1280, 720);
+}
+
+void draw() {
+ 
+  if (mousePressed) {
+    fill(255, 20, 90);
+  } else {
+  float y = random(255);
+  float red = random(255);
+ 
+  fill(red, green, blue);
+  }
+    float x1 = random(250);
+    float x2 = random(250);
+  ellipse(mouseX, mouseY, 180, 90);
+}
+
+
+
