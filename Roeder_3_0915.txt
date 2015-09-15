@@ -1,0 +1,2 @@
+An Ide or an Integrated Drive Electronic is a standard interface for IBM compatible drives and CD or DVD drives. It's used by allowing it to connect directly to the motherboard or 
+controllers.
