@@ -5,3 +5,12 @@ The three guiding rules/principles for this class are..
 3)Interact with students if you need assistance or have questions
 
 
+Why...
+
+If a student were to encounter a problem first he or she should begin to tinker with the code to see if you can solve the problem yourself.
+Next if the problem still isn't solved ask a neighbor if they can solve the problem.
+Finally as a last resort ask the teacher for assistance and finally solve the problem.
+
+The motavition for the process is to try and solvew the problem yourself first before asking for help.
+
+
