@@ -1,0 +1,9 @@
+int- Is an integer, I.E., a "counting number"
+
+float- A floating point decimal, "3.1415926535"
+
+Char- Is just ONE character, e.g, "1" "a"
+
+String: A LOT of characters, e.g., "abcdefg1234567"
+
+boolean- True or False ; 1 or 0
