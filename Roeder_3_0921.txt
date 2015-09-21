@@ -1,0 +1,4 @@
+It's important to name the file so Mr.Davis doesn't have to figure out which Journal it is.
+
+The command to copy in Linux is cp.
+
