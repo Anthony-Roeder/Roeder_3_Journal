@@ -1,0 +1,5 @@
+You count in Java by making a for loop then printing all of the numbers.
+
+Use the % to see if a number (i) is divisible or not.(i % 2 == 0)
+
+To track a number to see if it has a divisor you must use a series of if statements.
