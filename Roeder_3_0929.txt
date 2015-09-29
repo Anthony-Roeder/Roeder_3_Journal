@@ -1,0 +1,6 @@
+A method is a function it's like a little program.
+
+Methods are used for repeating the same task over and over again.
+
+Use methods to find a prime in a number system over and over til all are found.
+                
