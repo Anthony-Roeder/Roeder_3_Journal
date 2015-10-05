@@ -1,0 +1,1 @@
+Code Comments are used for hints andtips you can leave yourself for future reference.
