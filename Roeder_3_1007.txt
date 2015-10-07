@@ -1,0 +1,6 @@
+A Java class is a section of a code that is executed on JVM.
+
+Java class is used for executing FX codes on JavaFX.
+
+A method is an object oriented programming associated with a class.
+
