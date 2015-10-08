@@ -1,0 +1,10 @@
+My plans for the art project is to build some sort of environment if possible.
+
+I will have to is multiple shape methods for the environment.
+
+I will use a for loop for a landscape size.
+
+I will use multiple if, else if statements for the different viberant colors for the shapes.
+
+I might have to use graphing so i can put the shapes in the proper place.
+
