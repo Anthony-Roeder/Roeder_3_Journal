@@ -1,0 +1,5 @@
+I have made plenty of progress so far the only pronlem I'm having is with the
+graphics context. Right now I'm trying to male a radial gradient but I was
+ expiriencing some minor difficulties. I've made so far a linear
+ gradient and The letter D with multiple colors but one i finish with the
+ graphic contexts i'll be able to tweak my work to make it even better.
