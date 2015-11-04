@@ -1,0 +1,14 @@
+Questions:
+1. What is a method?
+2. Which methods did you use and how did you use them in your guessing game program?
+3. What is a while loop?
+4. How did you use a while loop, boolean, and counter in your guessing game?
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Answer:
+
+A method is a type of code that allows you to create a function.
+Some methods I used were counters and while loops which are sub-programs that help the code run smoothly.
+A while loop is a control flow statement that allows code to be repeated.
+Finally I used while loops to create the number of lives lost, the booleans i used were to allow numbers to be guessed, and the counter let you know how many lives you had left.
+
+
