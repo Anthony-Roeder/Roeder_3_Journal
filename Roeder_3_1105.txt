@@ -1,0 +1,3 @@
+Stings are a useful piece of code that allow you to write/print a lot of characters.
+Some sting methods are booleans and return codes.
+To identify a string method you must have a boolean method to allow you to actually use the string you have selected and return it to identify it.
