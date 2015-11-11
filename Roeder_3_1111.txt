@@ -1,0 +1,8 @@
+The Challenges the player must solve is fighting the soldiers of the villages, cities, and castle.
+By getting a notification or earn an achievement.
+
+Variable names: Archers, Knights, King, Sorcerer
+
+Variable types: Arrows, HP Potion, Mana Potion
+
+Classes: private static, private void
