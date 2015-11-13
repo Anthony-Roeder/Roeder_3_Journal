@@ -1,2 +1,2 @@
-I will use while loops to send the player back to a previous decision.
+I will use while loops to send the player back to a previous decision or if they give an invalid answer.
 I will also use methods to create scenes and make player, and NPC names.
