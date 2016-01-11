@@ -1,0 +1,6 @@
+Some challenges I've encountered during the slick game is time consumption because you only have a certain amount of time to create one thing til you start falling behind.
+
+I'm trying to create a 2-D maze crawler where you must find the exit and defeat enemies along the way.
+
+Some challenges I'm facing are all the new coding bits I must memorize so I can create a good quality game.
+
