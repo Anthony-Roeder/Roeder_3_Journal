@@ -1,0 +1,13 @@
+I added images to my games by creating a class the writing a for loop to make them visible such as...
+	for (Item1 i : stuff) {
+			if (i.isvisible) {
+				i.currentImage.draw(i.x, i.y);
+	}
+}
+
+The image is drawn here using this ArrayList and method.
+
+public ArrayList<Item1> stuff = new ArrayList();
+
+ healthpotion = new Item1(100, 100);
+		healthpotion1 = new Item1(450, 400);
