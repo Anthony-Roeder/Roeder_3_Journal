@@ -1,0 +1,6 @@
+What is this?:
+public void render(GameContainer gc, StateBasedGame sbg, Graphics g)
+throws SlickException {
+
+This piece of code is a method because it's something you find in a class.
+Also classes are shorter pieces of code most of the time.
