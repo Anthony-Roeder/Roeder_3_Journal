@@ -1,0 +1,5 @@
+A class constructor is used to create a new class with variables that you set before you instantiate the class.
+
+For the Orbs the height and width are a must and if you want them to do damage then a damage variable as well. You may also add a speed variable to control how fast the orb will go.
+
+Some methods you should use for the orbs are damage methods, speed methods and a method that makes the orb disappear when it intersects a hitbox of an enemy or player. 
