@@ -1,0 +1,6 @@
+I will be adding speed methods along with movement methods similar to the player's movements.
+
+EX Code:
+up = new Animation();
+down = new Animation();
+etc...
