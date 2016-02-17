@@ -1,0 +1,49 @@
+What are arrays used for?
+
+Arrays are used to make and hold variables of the same object/idea/class.
+
+What is the code for an int array?
+
+int[] array = new int[];
+
+What is the code for an String array?
+
+String[] top = new String[];
+
+What is the code for an boolean array?
+
+boolean[] mm = new boolean[];
+
+What is the code for an double array?
+
+double[] d = new double[10];
+
+How would you change the first value of the int array to 42?
+
+int[] array = new int[42];
+
+Of the String array to "Bob"?
+
+String[0] = "Bob";
+
+What does this do: private String[] dessert = new String[3];
+
+Lets the program know there are 3 desserts Strings in the array.
+
+What does this do: private String[] postres = {"rice pudding", "pan dulce", "bunuelos"}
+
+Gives the name of the postres Strings.
+
+How are they different?
+
+The first String gives the number of dessert Strings while the other gives the names of them.
+
+How would we replace "bunuelos" with "apple pie"?
+
+By altering the code as such from..
+
+private String[] postres = {"rice pudding" , "pan dulce", "bunuelos"}
+
+...to this code.
+
+private String[] postres = {"rice pudding" , "pan dulce", "apple pie"}
