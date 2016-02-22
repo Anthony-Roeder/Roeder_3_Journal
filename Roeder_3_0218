@@ -1,3 +1,5 @@
+This code loads the sprite sheet and tells the program where to look for the frames of the animation when the player is running up.
+This code loads the sprite sheet and tells the program where to look for the frames of the animation when the player is running up.
 Explain this code:
 public Animation Playeranime, up, down, left, right, sprite, wait;
     public Player() throws SlickException {
@@ -15,7 +17,7 @@ public Animation Playeranime, up, down, left, right, sprite, wait;
         up.addFrame(runningSS.getSprite(7, 8), 330);
         up.addFrame(runningSS.getSprite(8, 8), 330);
 
-This code initializes the up movement of the spritesheet by telling the computer where to look for the animation.
+This code initializes the up movement of the spritesheet by telling the program where to look for the animation.
 
 Why would it be unrealistic / unproductive  to memorize Slick syntax - what are the skills we were trying to practice?
 
@@ -23,7 +25,7 @@ It would be pointless to memorize slick syntax because it's a very specific code
 
 What is an array?
 
-It is a list of items/objects. 
+It is a list of ordered items/objects. 
 
 How do you make an array? Give an example.
 
@@ -31,17 +33,18 @@ int [] ar = new int[];
 
 What is an ArrayList?
 
-A list of Arrays that can be moved at anytime
+An ArrayList is resizeable array that can hold different object types.
 
 How do you make an arraylist?
 
-ArrayList Enemy = new ArrayList();
+ArrayList <boolean> Enemy = new ArrayList();
 
 In Netbeans, make an arraylist. Use autocompletion with the created arraylist (the '.' and pop-up):
 What are three useful arraylist methods that you identified?
+
 What is the difference between an array and an arraylist?
 
-An array is something that can't be moved once it's coded but an ArrayList can.
+An array is something that can't be resized (Static) but an ArrayList can(Dynamic).
 
 How could we make a health counter for an avatar?
 
