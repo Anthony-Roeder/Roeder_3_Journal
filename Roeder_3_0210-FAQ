@@ -1,0 +1,17 @@
+1.Fixing all the classes
+2.adding all the player.'s
+Ex: player.hitboxX = new hitbox; 
+3.Still confused how to block the orbs from the wall.
+4.Getting down all the code I missed on the days I was gone
+5.Initializing the Orbs
+Ex: orb1 = new Orb;
+6.Initializing the orb image.
+EX: this.orbpic = new Image ("res/orbs/Ninja_3.png");
+7.Setting the hitboxes.
+EX: this.hitbox = new Rectangle (a,b,32,32);
+8.Setting the intersection for the enemy.
+9.Setting the key input.
+EX: if (input.isKeyDown(Input.KEY_SPACE)) {
+10.Setting up the direction.
+orb1.setX((int) player.x);
+orb1.setY((int) player.y);
