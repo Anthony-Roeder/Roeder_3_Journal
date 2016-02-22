@@ -1,0 +1,3 @@
+To clean up my game I must put most of the code in its own class.
+Ex: Put all the player animations in its own class and put all the enemy animation in their own class.
+plus I must add my own significant code to actually make this game my own.
