@@ -1,0 +1,44 @@
+Define a class Rat
+
+A class Rat is a class made to do with making objects called rats.
+
+Provide the code to declare and instatiate Rats.
+
+Rat rat = new Rat(); 
+
+
+
+Explain where the decaration and initialization are placed
+
+Should usually be placed before all the code like at the beginning of the class.
+
+Provode a two-dimensional array that specifies coordinates for five rats
+
+public class Rat {
+
+public Rat one;
+public Rat two;
+public Rat three;
+public Rat four;
+public Rat five;
+
+public ArrayList<Rat> Ratz = new ArrayList();
+
+	}
+}
+
+public class MazeWalker extends BasicGameState {
+
+one = new Rat(50,50);
+two = new Rat(100,100);
+three = new Rat(150,150);
+four = new Rat(200,200);
+five = new Rat(250,250);
+
+Ratz.add(one);
+Ratz.add(two);
+Ratz.add(three);
+Ratz.add(four);
+Ratz.add(five);
+	}
+}
