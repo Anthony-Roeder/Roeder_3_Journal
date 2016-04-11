@@ -1,0 +1,18 @@
+What is assembly?
+Assembly is a more advanced coding system like Java.
+ 
+What is it good for?
+Assembly is good for giving direct and complete control over the system hardware.
+
+How is assembly different than Java?
+Assembly is more difficult than the Java program because it is more error prone than Java.
+
+What are differences between high level and low level languages?
+low level languages use extremely basic code and are more simple.
+high level languages are more complex and uses assits guids while low level doesn't.
+
+Which type is Java? How do you know, i.e., what characteristics does it have of that language type?
+Java is a high level type because it tells you where you have messed up and shows how to fix it.
+   
+Which type is Assembly? How do you know, i.e., what characteristics does it have of that language type?
+Assembly is a high level type because its uses simple code and doesn't show you where you messed up.
