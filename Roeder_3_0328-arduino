@@ -1,0 +1,24 @@
+Arduino uses a variant of the C programming language.
+
+What differences and similarites have you noticed? Provide at least 3 and explain in complete sentences.
+Some things I noticed that are the same are that most of the code is similar in the ways they're used.
+However, the arduino doesn't used the package and start code like the C programming language.
+
+What code adaptations have you made? [Or will you make if none to date. Note: 'none' is not a valid answer]
+We have took snip its from the other examples and altered them so all the code could run together.
+
+What is required for a circuit?
+Mostly the wires and buzzer, but mainly the cord that connects to the red board and to the computer.
+
+How are programs compiled with Arduino?
+They are just given actions to do and they are done with things like booleans and the main classes.
+
+Describe the projects you have completed this/last week and what you have learned from them. Descriptions should be _at least_ one full paragraph in length.
+What I learned from all the projects is that there is a HUGE room
+for error because even the slightest mistake in the code or the wiring
+for the Red Board the project will not function correctly.
+
+You will be completing your own project - a project of your own design that accepts user input and provides light and sound in some way.
+
+Describe your project and the code adaptations you will have to make. [Note - 'none' is not a valid answer. For example, there is a 'Simon' game provided - using that code would earn a '0' because it is 0% your code.]
+Some code adaptation that will have to be made are frequncies settings for the buzzer example so my partner and I can make a piano.
