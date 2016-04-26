@@ -1,0 +1,38 @@
+ Write a Java method to return the cubed value of some number.
+
+public int cubed(int input) {
+int squared = input*input;
+int cubed = input*squared;
+
+return cubed;
+}
+ Write an Arduino function to return the cubed value of some number.
+
+void setup(){
+}
+void loop(){
+	cube(3);
+}
+int cube(int num){
+	int square;
+	int cube;
+	square = num*num;
+	cubed = num*square;
+	return cube;
+}
+
+ Create the class, an object, and class constructor for class student
+public class CSstars() {
+	int grade;
+	int rank;
+	public students(int a, int b) {
+	this.grade = a;
+	this.rank = b;
+}
+
+
+ Describe - if we were to continue with Arduino - what would you create?
+
+I would like to create some sort of game like mechanism with the buttons and sign thing.
+For example something like BopIt where the player must find the button the light is connected to.
+Or give them a challenge to find a certain light color using the buttons in a certain amount of time.
