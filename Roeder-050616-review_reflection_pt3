@@ -1,0 +1,62 @@
+
+    Given mymap[67][43] Which is the x coordinate? Which is the y coordinate? Why? How does this happen?
+    Consider:
+
+            for (int i = 0; i <= map[0].length - 1; i++) {
+                for (int j = 0; j <= map[1].length - 1; j++) {
+                    if (j < map[1].length - 1) {
+                      if (i=0){ System.out.print("8888"); #a
+                        } else if (map[i][j] != 'x') {
+                            System.out.print("."); #e
+                        } else {
+                            System.out.print(map[i][j]); #b
+                        }
+                    } else {
+                        if (map[i][j] != 'x') {
+                            System.out.println("."); #c
+                        } else {
+                            System.out.println(map[i][j]); #d
+                        }
+                    }
+                }
+            }
+        }
+            
+The coordinates for the X are 67 and the Y is 42 if the first column is 0.            
+          
+
+    Write the code from line #a and explain what it does.
+ if (i=0){ System.out.print("8888"); 
+This code is telling the computer to put the numbers 8888 if the x coordinate is eqauk to 0.
+    Write the code from line #b and explain what it does.
+System.out.print(map[i][j]);
+THis code is saying to print the 67x43 make using the dots for each coordinate point.
+    Write the code from line #c and explain what it does. Explain how its different than #e
+System.out.println("."); #c
+This code prints the dots for the 2-D Array but unlike #c, #e doesn't have the line print. 
+    Write the code from line #d and explain what it does.
+System.out.println(map[i][j]); #d
+This code is just saying if none of the methods above it are availble just draw the map.
+    Explain how to use a boolean with a while loop. Provide a very specific use case and code example.
+  while(!answer){
+         move = whichway.nextLine().toLowerCase();
+         if(move.contains("9")) {
+         Hero.x--;
+         Hero.y++;
+         answer=true;
+THis code repeats the use of the Scanner so the player can answer over and over. As well as print the map over and over.
+    Explain the use of static.
+Using static allows for other classes to use variables from different classes. 
+    Provide an example of how you could use an object with your game. Give a code example.
+By creating the player/ Hero.
+public class Hero {
+   static int x = 19;
+   static int y = 19;
+   static int health = 100;
+    char symbol ='@';
+}
+public class Game{
+Hero hero = new Hero;
+
+}    
+
