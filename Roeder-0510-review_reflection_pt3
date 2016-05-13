@@ -1,0 +1,7 @@
+Provide an example of initializing a hero object with your name
+Hero roeder = new Hero;
+
+Explain why you would not initialize the hero in class hero.
+
+Because if you intialize the hero in its class it would have been pointless because the main
+class would not be able to use the hero class without static.
