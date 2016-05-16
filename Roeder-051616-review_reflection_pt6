@@ -1,0 +1,19 @@
+
+Explain casting. Up-casting, Down-casting.
+Casting allows the change of a datatypes to better suit the codes needs.
+Up-casting is changing code into something more specific and giving more info.
+Downcasting is just the opposite which is being less specific which is asking for more info.
+
+Give a specific code example for up-casting
+  Mammal m = (Mammal)new Cat();
+Give a specific code example for down-casting
+ Cat c1 = new Cat();		 
+	Animal a = c1;		 //automatic upcasting to Animal
+	Cat c2 = (Cat) a;    //manual downcasting back to a Cat
+Give a specific code example for converting a char to a String
+char charVal = X;
+String StringVal = (String)charVal;
+
+What is the range of values for byte? Why?
+-128 to 127 or 0 to 255 because the byte can run 8-bit but that is the max value
+which is why there are other datatypes with higher values.
