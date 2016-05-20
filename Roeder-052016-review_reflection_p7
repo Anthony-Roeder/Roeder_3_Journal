@@ -1,0 +1,37 @@
+
+    Given the class Ogre:
+    1. Provide an example class with class constructor
+public class Ogre{
+	public int x;
+	public int y;
+	public HP = 100;
+
+	Ogre(int a, int b, int c){
+this.x = a;
+this.y = b;
+this.HP = c;
+}
+    2. Give an example of instantiation of an Ogre object
+	public class Main {
+	public static Ogre ogre;
+	ogre = new Ogre(10,10);
+}
+    3. Provide a setter for positioning
+	
+	public int getOgresX() {
+	return x;
+	}
+	public int getOgresY() {
+	return y;
+	}
+}
+    4. Provide an example of using an ogre's move method
+
+	if (move.contains("8")){
+        ogre.y--;
+	answer = true; 
+    5. Provide an example array of 3 ogres.
+	Ogre [] ogrez = new Ogre[3];
+	ogrez[0] = new Ogre();
+	ogrez[1] = new Ogre();
+	ogrez[2] = new Ogre();
